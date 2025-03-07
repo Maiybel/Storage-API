@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path name="pictures" path="Pictures" />
+</paths>
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<paths>-->
+<!--    &lt;!&ndash; Share app-specific external storage files &ndash;&gt;-->
+<!--    <external-files-path-->
+<!--        name="external_files"-->
+<!--        path="." />-->
+
+<!--    &lt;!&ndash; Share app-specific internal storage files &ndash;&gt;-->
+<!--    <files-path-->
+<!--        name="internal_files"-->
+<!--        path="." />-->
+
+<!--    &lt;!&ndash; Share cache files if needed &ndash;&gt;-->
+<!--    <cache-path-->
+<!--        name="cache"-->
+<!--        path="." />-->
+<!--</paths>-->
+
